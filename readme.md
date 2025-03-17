@@ -24,7 +24,7 @@ Harness blockchain technology to revolutionize manufacturing by integrating real
 ## Installation & Usage
 Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/blockchain-smart-manufacturing.git
+   git clone https://github.com/ishika-2005/Blockchain-for-Smart-Manufacturing
    ```
 
 
